@@ -6,3 +6,5 @@ class CreateStudents < ActiveRecord::Migration[5.1]
       end
     end
   end
+
+#Active Record create table method within change method 
