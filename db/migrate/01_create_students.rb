@@ -7,4 +7,5 @@ class CreateStudents < ActiveRecord::Migration[5.1]
     end
   end
 
-#Active Record create table method within change method 
+#Active Record create table method within change method
+#name column with type string 
